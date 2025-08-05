@@ -15,7 +15,7 @@
 % 3. Symbolic SSM Calculation: Derive the 3rd-order manifold z = h(y).
 % 4. Symbolic ROM Formulation: Derive the 2D nonlinear reduced dynamics.
 % 5. Numerical Simulation: Solve both FOM and ROM ODEs.
-% 6.  Visualization & Comparison: Generate journal-quality plots to
+% 6.  Visualization
 
 %
 %% --- 0. Initial Setup and Configuration ---
@@ -319,5 +319,6 @@ fprintf('Computational time comparison plot generated.\n\n');
 
 %% --- 7. Final ---
 fprintf('Total script execution time: %.4f seconds\n', toc(tic_script_total));
+
 
 
