@@ -23,7 +23,7 @@ This script applies the equation-driven Spectral Submanifold (SSM) model reducti
 
 % 5. Numerical Simulation: Solve both FOM and ROM ODEs.
 
-% 6. Advanced Visualization & Comparison: Generate journal-quality plots to compare FOM and ROM performance, including 3D manifold plots.
+% 6. Visualization
 
 # License
 
