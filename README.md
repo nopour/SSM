@@ -1,16 +1,15 @@
 # SSM
 
-% ============================================================
-% SSM Reduction for a 2-DOF Nonlinear Shaw-Pierre System
-% ============================================================
+SSM Reduction for a 2-DOF Nonlinear Shaw-Pierre System
+
 
 
 # Description:
 % This script applies the equation-driven Spectral Submanifold (SSM) model 
-% reduction methodology to a classic 2-DOF spring-mass-damper system with 
-% a cubic nonlinearity. It performs the reduction from first principles
-% using MATLAB's Symbolic Math Toolbox, without relying on the external
-% SSMTool package.
+ reduction methodology to a classic 2-DOF spring-mass-damper system with 
+ a cubic nonlinearity. It performs the reduction from first principles
+ using MATLAB's Symbolic Math Toolbox, without relying on the external
+ SSMTool package.
 
 
 # --- Script Workflow ---
