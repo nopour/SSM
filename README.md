@@ -8,7 +8,8 @@
 
 This script applies the equation-driven Spectral Submanifold (SSM) model reduction methodology to a classic 2-DOF spring-mass-damper system with a cubic nonlinearity. It performs the reduction from first principles using MATLAB's Symbolic Math Toolbox, without relying on the external SSMTool package.
 
-# Quick Start Demo
+# WorkFlow
+
 
 ![GuideLine](https://github.com/nopour/SSM/blob/main/Figure2.png)
 
