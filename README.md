@@ -1,18 +1,16 @@
-# SSM
-
-SSM Reduction for a 2-DOF Nonlinear Shaw-Pierre System
 
 
+# SSM Reduction for a 2-DOF Nonlinear Shaw-Pierre System
 
-# Description:
-% This script applies the equation-driven Spectral Submanifold (SSM) model 
- reduction methodology to a classic 2-DOF spring-mass-damper system with 
- a cubic nonlinearity. It performs the reduction from first principles
- using MATLAB's Symbolic Math Toolbox, without relying on the external
- SSMTool package.
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
+[![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
 
+This script applies the equation-driven Spectral Submanifold (SSM) model reduction methodology to a classic 2-DOF spring-mass-damper system with a cubic nonlinearity. It performs the reduction from first principles using MATLAB's Symbolic Math Toolbox, without relying on the external SSMTool package.
 
-# --- Script Workflow ---
+# Quick Start Demo
+
+![GuideLine](https://github.com/nopour/SSM/blob/main/Figure2.png)
+
 % 1. System Definition: Construct the 4D Full Order Model (FOM).
 
 % 2. Modal Analysis: Find the slow and fast subspaces of the linear system.
@@ -25,4 +23,8 @@ SSM Reduction for a 2-DOF Nonlinear Shaw-Pierre System
 
 % 6. Advanced Visualization & Comparison: Generate journal-quality plots to compare FOM and ROM performance, including 3D manifold plots.
 
+# License
 
+[MIT license](./LICENSE)
+
+![GuideLine](https://github.com/nopour/SSM/blob/main/Figure3.png)
