@@ -1,4 +1,5 @@
 
+![A](https://github.com/nopour/SSM/blob/main/Figure1.png)
 
 # SSM Reduction for a 2-DOF Nonlinear Shaw-Pierre System
 
@@ -26,5 +27,5 @@ This script applies the equation-driven Spectral Submanifold (SSM) model reducti
 # License
 
 [MIT license](./LICENSE)
-
 ![GuideLine](https://github.com/nopour/SSM/blob/main/Figure3.png)
+
